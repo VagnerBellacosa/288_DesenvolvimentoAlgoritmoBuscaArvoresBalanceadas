@@ -20,11 +20,11 @@ Este projeto propõe a implementação de uma árvore balanceada para busca bin�
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/a1259dd0-1a01-4683-a349-e988155df17b.jpg)
+! - [author](https://hermes.dio.me/users/author/photos/a1259dd0-1a01-4683-a349-e988155df17b.jpg)
 
 ###### Diego Renan
 
-Education Tech Lead, DIO[**](https://www.linkedin.com/in/diego-renan-bruno-48194484/)
+Education Tech Lead, DIO - [**](https://www.linkedin.com/in/diego-renan-bruno-48194484/)
 
 
 
@@ -32,13 +32,13 @@ https://web.dio.me/project/desenvolvimento-de-um-algoritmo-para-busca-em-arvores
 
 
 
-[**](https://web.dio.me/track/formacao-cc-developer)
+ - [**](https://web.dio.me/track/formacao-cc-developer)
 
 ##### Desenvolvimento de um Algoritmo Para Busca em Árvores Balanceadas
 
 **
 
-[**](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/3630cc48-2e67-4d20-bc02-10edcc4da3e4)[**](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/7d269cea-3f61-4996-acd4-1efd35c4b98e)
+ - [**](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/3630cc48-2e67-4d20-bc02-10edcc4da3e4) - [**](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/7d269cea-3f61-4996-acd4-1efd35c4b98e)
 
 <iframe id="ytc8" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Desenvolvimento de um algoritmo para busca em árvores balanceadas" width="100%" height="100%" src="https://www.youtube.com/embed/9C8gZaOYDrY?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" data-gtm-yt-inspected-19="true" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -63,7 +63,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desenvolvimento de um algoritmo para busca em árvores balanceadas](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/3630cc48-2e67-4d20-bc02-10edcc4da3e4)[Entendendo o Desafio](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/7d269cea-3f61-4996-acd4-1efd35c4b98e)
+ - [Desenvolvimento de um algoritmo para busca em árvores balanceadas](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/3630cc48-2e67-4d20-bc02-10edcc4da3e4) 
+ - [Entendendo o Desafio](https://web.dio.me/lab/desenvolvimento-de-um-algoritmo-para-busca-em-arvores-balanceadas/learning/7d269cea-3f61-4996-acd4-1efd35c4b98e)
 
 
 
@@ -87,7 +88,7 @@ auto
 
  
 
-[Desenvolvimento de um algoritmo para busca em árvores balanceadas.docx](https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EanEiTYqfflFssjrWIAwy_YBmD-zkeke9KPtJK0joQtZYw?e=maefm1)
+ - [Desenvolvimento de um algoritmo para busca em árvores balanceadas.docx](https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EanEiTYqfflFssjrWIAwy_YBmD-zkeke9KPtJK0joQtZYw?e=maefm1)
 
  
 
